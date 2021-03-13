@@ -1,0 +1,14 @@
+body {
+    background-color: #ffffff;
+    background-image: url("img/rock.png");
+    background-repeat: no-repeat;
+    background-position: 450px 40px;
+    background-size: 52%;
+    
+  }
+  ol {
+    font-size: 1.3rem;
+  }
+  p {
+      font-size: 1.2rem;
+  }
